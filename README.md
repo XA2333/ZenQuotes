@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Vite](https://vitejs.dev) for the amazing build tool
 - [React](https://reactjs.org) for the component framework
 
-## 📧 Contact
+## Contact
 
 Wentao Ma 
 email: ma450824851@gmail.com
@@ -158,3 +158,4 @@ Project Link: [https://github.com/your-username/quote-of-the-day](https://github
 ---
 
 Built with ❤️ for spreading daily inspiration
+[ZenQuotes](https://zenquotes.io)
