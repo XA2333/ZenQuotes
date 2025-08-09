@@ -1,0 +1,33 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+  min-height: calc(100vh - 200px); /* Account for header and footer */
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .main-content {
+    padding: 1rem 0;
+    min-height: calc(100vh - 160px);
+  }
+  
+  .container {
+    padding: 0 0.5rem;
+  }
+}
